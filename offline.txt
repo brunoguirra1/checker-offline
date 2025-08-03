@@ -232,6 +232,9 @@ http://painel.ersweb.shop:80/live/952810/263781/291.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Filmes e Séries",Film&amp;Arts HD
 http://painel.ersweb.shop:80/live/952810/263781/292.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Filmes e Séries",Film&amp;Arts SD
+http://painel.ersweb.shop:80/live/952810/263781/293.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
 http://painel.ersweb.shop:80/live/952810/263781/294.ts
 
@@ -240,6 +243,15 @@ http://painel.ersweb.shop:80/live/952810/263781/295.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
 http://painel.ersweb.shop:80/live/952810/263781/297.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
+http://painel.ersweb.shop:80/live/952810/263781/302.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD [H265]
+http://painel.ersweb.shop:80/live/952810/263781/303.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space SD
+http://painel.ersweb.shop:80/live/952810/263781/305.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD
 http://painel.ersweb.shop:80/live/952810/263781/310.ts
@@ -523,6 +535,18 @@ http://painel.ersweb.shop:80/live/952810/263781/745.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
 http://painel.ersweb.shop:80/live/952810/263781/747.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
+http://painel.ersweb.shop:80/live/952810/263781/749.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 4 SD
+http://painel.ersweb.shop:80/live/952810/263781/756.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Prime Video",Brasileirao Serie A FHD
+http://painel.ersweb.shop:80/live/952810/263781/757.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Prime Video",Brasileirao Serie A HD
+http://painel.ersweb.shop:80/live/952810/263781/758.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/a/DdHK8dm" group-title="Canais | Reality Shows",A Grande Conquista 3 FHD
 http://painel.ersweb.shop:80/live/952810/263781/760.ts
 
@@ -543,30 +567,6 @@ http://painel.ersweb.shop:80/live/952810/263781/765.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 9 FHD
 http://painel.ersweb.shop:80/live/952810/263781/791.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 9 HD
-http://painel.ersweb.shop:80/live/952810/263781/792.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 9 SD
-http://painel.ersweb.shop:80/live/952810/263781/793.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 10 FHD
-http://painel.ersweb.shop:80/live/952810/263781/794.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 10 HD
-http://painel.ersweb.shop:80/live/952810/263781/795.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 10 SD
-http://painel.ersweb.shop:80/live/952810/263781/796.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 11 FHD
-http://painel.ersweb.shop:80/live/952810/263781/797.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 11 HD
-http://painel.ersweb.shop:80/live/952810/263781/798.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 11 SD
-http://painel.ersweb.shop:80/live/952810/263781/799.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
 http://painel.ersweb.shop:80/live/952810/263781/805.ts
@@ -612,6 +612,21 @@ http://painel.ersweb.shop:80/live/952810/263781/874.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
 http://painel.ersweb.shop:80/live/952810/263781/877.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo FHD
+http://painel.ersweb.shop:80/live/952810/263781/882.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+http://painel.ersweb.shop:80/live/952810/263781/883.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo SD
+http://painel.ersweb.shop:80/live/952810/263781/885.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="Canais | Variedades",Dog TV FHD
+http://painel.ersweb.shop:80/live/952810/263781/886.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="Canais | Variedades",DOG TV FHD [H265]
+http://painel.ersweb.shop:80/live/952810/263781/887.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
 http://painel.ersweb.shop:80/live/952810/263781/906.ts
