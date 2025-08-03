@@ -4,15 +4,6 @@ http://painel.ersweb.shop:80/live/952810/263781/2.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais SD
 http://painel.ersweb.shop:80/live/952810/263781/4.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
-http://painel.ersweb.shop:80/live/952810/263781/9.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
-http://painel.ersweb.shop:80/live/952810/263781/10.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi SD
-http://painel.ersweb.shop:80/live/952810/263781/11.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
 http://painel.ersweb.shop:80/live/952810/263781/21.ts
 
@@ -24,9 +15,6 @@ http://painel.ersweb.shop:80/live/952810/263781/23.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
 http://painel.ersweb.shop:80/live/952810/263781/24.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV HD
-http://painel.ersweb.shop:80/live/952810/263781/37.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD
 http://painel.ersweb.shop:80/live/952810/263781/49.ts
@@ -241,12 +229,6 @@ http://painel.ersweb.shop:80/live/952810/263781/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Catarinense 4 SD
 http://painel.ersweb.shop:80/live/952810/263781/175.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 SD
-http://painel.ersweb.shop:80/live/952810/263781/178.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 SD
-http://painel.ersweb.shop:80/live/952810/263781/181.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
 http://painel.ersweb.shop:80/live/952810/263781/224.ts
 
@@ -292,6 +274,15 @@ http://painel.ersweb.shop:80/live/952810/263781/357.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Mirante Cocais SD
 http://painel.ersweb.shop:80/live/952810/263781/358.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sergipe FHD
+http://painel.ersweb.shop:80/live/952810/263781/361.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sergipe HD
+http://painel.ersweb.shop:80/live/952810/263781/362.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sergipe SD
+http://painel.ersweb.shop:80/live/952810/263781/363.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Subae  HD
 http://painel.ersweb.shop:80/live/952810/263781/364.ts
 
@@ -309,6 +300,21 @@ http://painel.ersweb.shop:80/live/952810/263781/368.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Sudoeste SD
 http://painel.ersweb.shop:80/live/952810/263781/369.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Verdes Mares FHD
+http://painel.ersweb.shop:80/live/952810/263781/370.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Verdes Mares HD
+http://painel.ersweb.shop:80/live/952810/263781/371.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Verdes Mares SD
+http://painel.ersweb.shop:80/live/952810/263781/372.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Mirante Imperatriz FHD
+http://painel.ersweb.shop:80/live/952810/263781/379.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Mirante Imperatriz HD
+http://painel.ersweb.shop:80/live/952810/263781/380.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Nordeste",Globo TV Paraiba FHD
 http://painel.ersweb.shop:80/live/952810/263781/382.ts
@@ -355,6 +361,27 @@ http://painel.ersweb.shop:80/live/952810/263781/401.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Amazonica Porto Velho SD
 http://painel.ersweb.shop:80/live/952810/263781/402.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Norte",Globo Rede Macapa FHD
+http://painel.ersweb.shop:80/live/952810/263781/410.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Fronteira Presidente Prudente FHD
+http://painel.ersweb.shop:80/live/952810/263781/433.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo TV Fronteira Presidente Prudente HD
+http://painel.ersweb.shop:80/live/952810/263781/434.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sudeste",Globo TV Fronteira Presidente Prudente SD
+http://painel.ersweb.shop:80/live/952810/263781/435.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco FHD
+http://painel.ersweb.shop:80/live/952810/263781/447.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco HD
+http://painel.ersweb.shop:80/live/952810/263781/448.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco SD
+http://painel.ersweb.shop:80/live/952810/263781/449.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Cruz do Sul FHD
 http://painel.ersweb.shop:80/live/952810/263781/496.ts
 
@@ -387,6 +414,9 @@ http://painel.ersweb.shop:80/live/952810/263781/555.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
 http://painel.ersweb.shop:80/live/952810/263781/560.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://painel.ersweb.shop:80/live/952810/263781/562.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob SD
 http://painel.ersweb.shop:80/live/952810/263781/563.ts
@@ -598,6 +628,9 @@ http://painel.ersweb.shop:80/live/952810/263781/711.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | PPV",Netflix Live SD
 http://painel.ersweb.shop:80/live/952810/263781/712.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+http://painel.ersweb.shop:80/live/952810/263781/716.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://149.102.224.103/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
 http://painel.ersweb.shop:80/live/952810/263781/745.ts
 
@@ -621,6 +654,9 @@ http://painel.ersweb.shop:80/live/952810/263781/764.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa Mosaico HD
 http://painel.ersweb.shop:80/live/952810/263781/765.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 7 SD
+http://painel.ersweb.shop:80/live/952810/263781/787.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Reality Shows",Estrela da Casa 9 FHD
 http://painel.ersweb.shop:80/live/952810/263781/791.ts
